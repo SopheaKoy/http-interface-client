@@ -1,0 +1,6 @@
+#Configuration Client Port
+server:
+  port: 9090
+
+  error:
+    include-message: always
